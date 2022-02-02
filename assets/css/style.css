@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #2e2e2e;
+}
+
+section{
+    background: #fff;
+    padding: 30px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px;
+    max-width: 70vw;
+
+}
+
+section h1{
+    padding: 40px 10px;
+    text-align: center;
+}
+
+fieldset{
+    border: none;
+}
+
+fieldset:nth-child(2){
+
+}
+
+fieldset:nth-child(4){
+    
+}
+
+fieldset:nth-child(5){
+    
+}
