@@ -9,7 +9,7 @@
   <p>Formulário para cadastrar uma conta de usuário, utilizando HTML e CSS</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/user-account/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="License MIT"></a>
+    <a href="https://github.com/Doug-Silva/user-account/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License MIT"></a>
   </div><br>
 
   <!--Adicionar imagem/gif do projeto aqui-->
